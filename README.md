@@ -12,7 +12,7 @@
 
 Parte 1: Contador de 0 a 99 con Display 7 Segmentos y Multiplexación
 
-![](![3ParteArduino](https://github.com/valenngiraldi/repositorios/assets/123918538/b51b13a5-8bd1-4dd6-94d8-93f20d6a3269))
+![](https://github.com/valenngiraldi/repositorios/blob/main/1%20parte%20arduino.jpeg)
 
 🔔Descripcion
 
