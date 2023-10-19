@@ -28,7 +28,7 @@ https://www.tinkercad.com/things/5HhGCEtZENv
 
 Parte 2: Modificación con Interruptor Deslizante y Números Primos
 
-
+![](https://github.com/valenngiraldi/repositorios/blob/main/2%20parte%20arduino.jpeg)
 
 🔔Descripcion presentamos un codigo de arduino para mostrar uma modificacion de la primera parte agregando un interruptor deslizante
 
