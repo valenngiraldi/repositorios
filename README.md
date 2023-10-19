@@ -64,6 +64,8 @@ https://www.tinkercad.com/things/5HhGCEtZENv
 
 Parte 3: Modificación según el Último Número de Documento 
 
+![](https://github.com/valenngiraldi/repositorios/blob/main/3ParteArduino.png)
+
 🔔Descripcion En este ejercicio agregue al codigo y al sistema de arduino un snesor de luz ambiental
 
 💻 Funcion principal
