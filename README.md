@@ -24,7 +24,7 @@ Este código se utiliza para crear un contador que muestra valores en dos displa
 
 📡Enlace del proyecto
 
-https://www.tinkercad.com/things/5HhGCEtZENv
+https://www.tinkercad.com/things/84cOtP9RYw3-cool-kasi-fyyran/editel?tenant=circuits
 
 Parte 2: Modificación con Interruptor Deslizante y Números Primos
 
@@ -60,17 +60,17 @@ La integración de cualquiera de estos motores requerirá conocimientos adiciona
 
 📡Enlace del proyecto:
 
-https://www.tinkercad.com/things/5HhGCEtZENv
+https://www.tinkercad.com/things/cVglYRGo3dx-glorious-trug/editel
 
 Parte 3: Modificación según el Último Número de Documento 
 
 ![](https://github.com/valenngiraldi/repositorios/blob/main/3ParteArduino.png)
 
-🔔Descripcion En este ejercicio agregue al codigo y al sistema de arduino un snesor de luz ambiental
+🔔Descripcion En este ejercicio agregue al codigo y al sistema de arduino un fotodiodo y un motor
 
 💻 Funcion principal
 
-Este código utiliza analogWrite() para controlar el brillo de los displays de 7 segmentos en función del valor del sensor de luz ambiental. Cuanto menor sea el valor del sensor (menos luz), mayor será el brillo, y viceversa. Con estas modificaciones, el brillo de los displays se ajustará automáticamente en función de la luz ambiente. Puedes personalizar la relación entre el valor del sensor y el brillo según tus preferencias.
+En este codigo se utiliza el fotodiodo para determinar si hay suficiente luz. Si la luz supera un cierto umbral (definido por "umbralTemperatura"), se activará una acción específica en el sistema, como encender un dispositivo conectado al pin 12 del Arduino (El motor).
 
 📡Enlace del proyecto
 
